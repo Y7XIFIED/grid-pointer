@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
+## 🎬 Preview
 ![Preview Demo](preview.gif)
 
 ## 🚀 Live Website
