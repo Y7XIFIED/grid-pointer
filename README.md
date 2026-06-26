@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/grid-pointer.git
-cd grid-pointer
+git clone https://github.com/Y7XIFIED/Grid-Pointer.git
+cd Grid-Pointer
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-grid-pointer/
+Grid-Pointer/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json
