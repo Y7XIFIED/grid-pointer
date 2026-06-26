@@ -5,20 +5,20 @@ let mPos = { x: 50, y: 50 }
 let i = 0
 
 const localImages = [
-	new URL('./assets/img/@7Field_jpg on instagram.jpg', import.meta.url).href,
-	new URL('./assets/img/@visual_dreamz.jpg', import.meta.url).href,
-	new URL('./assets/img/Ascent through fall.jpg', import.meta.url).href,
-	new URL('./assets/img/Frasurbane Project No_ 7.jpg', import.meta.url).href,
-	new URL('./assets/img/HELLO87.jpg', import.meta.url).href,
-	new URL('./assets/img/Jellyfish.jpg', import.meta.url).href,
-	new URL('./assets/img/MIDJOURNEY promt smoky butterfly.jpg', import.meta.url).href,
-	new URL('./assets/img/august sun _ @lndnlryq.jpg', import.meta.url).href,
-	new URL('./assets/img/download (1).jpg', import.meta.url).href,
-	new URL('./assets/img/download (2).jpg', import.meta.url).href,
-	new URL('./assets/img/download (3).jpg', import.meta.url).href,
-	new URL('./assets/img/download (4).jpg', import.meta.url).href,
-	new URL('./assets/img/download.jpg', import.meta.url).href,
-	new URL('./assets/img/rp theme by esprectos on ig.jpg', import.meta.url).href
+	new URL('./assets/img/1.jpg', import.meta.url).href,
+	new URL('./assets/img/2.jpg', import.meta.url).href,
+	new URL('./assets/img/3.jpg', import.meta.url).href,
+	new URL('./assets/img/10.jpg', import.meta.url).href,
+	new URL('./assets/img/11.jpg', import.meta.url).href,
+	new URL('./assets/img/12.jpg', import.meta.url).href,
+	new URL('./assets/img/13.jpg', import.meta.url).href,
+	new URL('./assets/img/4.jpg', import.meta.url).href,
+	new URL('./assets/img/5.jpg', import.meta.url).href,
+	new URL('./assets/img/6.jpg', import.meta.url).href,
+	new URL('./assets/img/7.jpg', import.meta.url).href,
+	new URL('./assets/img/8.jpg', import.meta.url).href,
+	new URL('./assets/img/9.jpg', import.meta.url).href,
+	new URL('./assets/img/14.jpg', import.meta.url).href
 ]
 
 for (let x = 1; x < 10; x++)
